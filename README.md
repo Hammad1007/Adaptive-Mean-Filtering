@@ -12,8 +12,8 @@ import numpy as np
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageTk 
-
 ```
+    
 ### Explanation:
 The following is the explanation of the code along with code snippets.
 
