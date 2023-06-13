@@ -28,6 +28,7 @@ The following is the explanation of the code along with code snippets.
         # Convert the image to grayscale
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ```
+    
 The code above is used to read the file that is the image and then converts into gray scale. 
 
 
